@@ -1,1 +1,3 @@
 # hololive-ocg
+
+This is an unofficial, fan-made project. It is not affiliated with, endorsed by, or sponsored by Hololive, COVER Corporation, or any of its talents. All related intellectual property, including names, images, and logos, are the property of COVER Corporation. This project is for non-commercial, personal use only and is operated in accordance with COVER Corp.'s Derivative Work Guidelines.
